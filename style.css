@@ -1,0 +1,30 @@
+*{
+    margin : 5px;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#app img{
+    border-radius: 50%;
+    padding: 5px;
+}
+#app button{
+    padding: 12px;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.male{
+    border-color: steelblue;
+    background-color: steelblue;
+}
+.female{
+    border-color: pink;
+    background-color: pink;
+    color:  #333;
+}
